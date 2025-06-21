@@ -1,0 +1,11 @@
+langgraph 
+langchain
+langchain_openai
+langchain_community
+openai
+tavily-python
+python-dotenv
+fpdf
+tiktoken
+google-search-results
+streamlit 
